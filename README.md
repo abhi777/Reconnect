@@ -98,7 +98,6 @@ See [Limitations and Roadmap](#limitations-and-roadmap) for the verified list.
 
 ## Screenshots and Demo
 
-No screenshots, demo GIFs, videos, or hosted deployment URLs are committed to this repository. There is therefore no verified demo link to reference.
 <img width="2498" height="1039" alt="image" src="https://github.com/user-attachments/assets/ae13f789-eac1-457d-88c1-b1a473bd2a6f" />
 <img width="2504" height="1038" alt="image" src="https://github.com/user-attachments/assets/9999c74d-72c1-4a67-9395-cd40d8574eac" />
 <img width="2500" height="1037" alt="image" src="https://github.com/user-attachments/assets/20872944-767a-4e05-b843-f710b9e8d06e" />

@@ -1,10 +1,10 @@
 # Reconnect (Starecho)
 
-> A voice-first, asynchronous AI remembrance companion built from a loved one's voice and memories.
+> Reconnect is your AI-powered grief and memory companion concept — an app designed to help people reconnect with the memories, personality, stories, and conversational style of someone they have lost.
 
-**Reconnect** is the repository and build-spec name. **Starecho** is the customer-facing brand used throughout the application, UI copy, package metadata, and API title. They refer to the same project.
+The idea is to create a digital space where memories feel alive, allowing users to revisit meaningful conversations and feel connected to someone who is no longer physically present.
 
-> **Project status: pre-production MVP.** The end-to-end voice loop, consent and safety gates, DPDP rights, premium billing, and internal admin console are implemented. The project is **not launched**, has **no hosted demo**, and still has production-hardening and legal items to resolve. Use test data only until the items in [Limitations and Roadmap](#limitations-and-roadmap) are addressed.
+
 
 ---
 

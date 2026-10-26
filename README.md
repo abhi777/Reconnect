@@ -4,6 +4,7 @@
 
 The idea is to create a digital space where memories feel alive, allowing users to revisit meaningful conversations and feel connected to someone who is no longer physically present.
 
+<img width="872" height="994" alt="image" src="https://github.com/user-attachments/assets/0dc05954-b8f6-4949-8c04-549c6cdba321" />
 
 
 ---

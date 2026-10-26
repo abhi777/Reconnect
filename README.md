@@ -103,6 +103,14 @@ No screenshots, demo GIFs, videos, or hosted deployment URLs are committed to th
 <img width="2500" height="1037" alt="image" src="https://github.com/user-attachments/assets/20872944-767a-4e05-b843-f710b9e8d06e" />
 <img width="2496" height="1045" alt="image" src="https://github.com/user-attachments/assets/147464cd-27bd-4f3b-a4ab-7f52d06658fa" />
 <img width="2495" height="1045" alt="image" src="https://github.com/user-attachments/assets/94560ddd-3fd1-473e-80de-ff80c44d98f4" />
+<img width="2491" height="1039" alt="image" src="https://github.com/user-attachments/assets/fe1b2785-341a-43a6-bcb0-789f543fa614" />
+<img width="2496" height="991" alt="image" src="https://github.com/user-attachments/assets/db6d2b60-dce9-4a4c-b022-7815f0a9a42a" />
+<img width="2498" height="1040" alt="image" src="https://github.com/user-attachments/assets/78157ebd-2110-4efb-8ba3-a2be5c4a5a65" />
+<img width="872" height="994" alt="image" src="https://github.com/user-attachments/assets/755c6ff6-5a16-40d4-bda1-2e6fb7f72b56" />
+<img width="625" height="1004" alt="image" src="https://github.com/user-attachments/assets/010a4e3d-1f87-4200-9434-0168ceec1b40" />
+<img width="761" height="999" alt="image" src="https://github.com/user-attachments/assets/930aab30-ce55-437b-9dcc-af394b331533" />
+<img width="2496" height="1040" alt="image" src="https://github.com/user-attachments/assets/caa55980-5508-4f2d-a7f1-206a7e5b5011" />
+
 
 
 <!-- Screenshots/demo placeholder: add images under docs/assets/ (or similar) and link them here with relative paths once available. Do not invent a deployment URL. -->
